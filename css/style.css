@@ -1,0 +1,19 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.MyForm{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+
+}
+
+.block{
+    width: 600px;
+    height: auto;
+    margin: 20px;
+}
